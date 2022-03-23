@@ -5,3 +5,4 @@ Añadido el texto "addcolor"
 Cambios de rafael
 
 Generar conflictos
+añadido colores nuevos
