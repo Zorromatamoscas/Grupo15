@@ -2,7 +2,7 @@
 Habituarnos al ciclo de trabajo con Git
 
 Añadido el texto "addcolor"
-Cambios de rafa
+Cambios de rafael
 
 Generar conflictos
 
