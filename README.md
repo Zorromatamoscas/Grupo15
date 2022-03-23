@@ -5,5 +5,3 @@ Añadido el texto "addcolor"
 Cambios de rafael
 
 Generar conflictos
-
-Modificando archivo al mismo tiempo
